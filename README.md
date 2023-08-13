@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Julie, a third-year computer science student at the University of Toronto.
+
+This is where I break more stuff than I build :p
+
+When I'm not doing the above, I enjoy paddling, running, and reading.
+
+
 <!--
 **jltng/jltng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
