@@ -4,7 +4,7 @@ I am Julie, a third-year Computer Science student at the University of Toronto.
 
 This is where I break more stuff than build :p
 
-When I'm not doing the above, I enjoy paddling, running, and reading.
+When I'm not doing the above, I enjoy paddling, cross country skiing, and reading.
 
 
 <!--
