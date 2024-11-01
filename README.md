@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Julie, a third-year Computer Science student at the University of Toronto.
+I'm Julie, a fourth-year Computer Science student at the University of Toronto.
 
-This is where I build stuff, break stuff, and build again :smirk_cat:
 
-When I'm not doing the above, I enjoy paddling, long runs, and reading.
 
 
 <!--
