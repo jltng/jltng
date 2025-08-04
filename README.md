@@ -3,11 +3,6 @@
 I'm Julie, a fourth-year Computer Science student at the University of Toronto.
 
 ### 🌱 I’m currently learning ...
-- CSC318: Design of Interactive Computational Media
-- CSC343: Introduction to Databases
-- CSC373: Algorithm Design, Analysis & Complexity
-- CSC384: Introduction to Artificial Intelligence
-- CSC458: Computer Networking Systems
 
 
 <!--
@@ -23,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- **CSC318: Design of Interactive Computational Media**
 -->
