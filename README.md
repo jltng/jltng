@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-I'm Julie, a fourth-year Computer Science student at the University of Toronto.
+I'm Julie, wrapping up my final year of undergraduate studies in Computer Science at the University of Toronto ...
+
+But!
+
+Currently on exchange at the University of Hong Kong 🕺
+
 
 ### 🌱 I’m currently learning ...
+- COMP3314: Intro to Machine Learning
+- COMP3322: Modern Technologies on the World Wide Web
+
+- CSC469: Operating Systems Design and Implementation
 
 
 <!--
@@ -18,5 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- **CSC318: Design of Interactive Computational Media**
 -->
