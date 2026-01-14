@@ -1,17 +1,11 @@
 ### Hi there 👋
 
-I'm Julie, wrapping up my final year of undergraduate studies in Computer Science at the University of Toronto ...
-
-But!
-
-Currently on exchange at the University of Hong Kong 🕺
+I'm Julie, wrapping up my final year of undergraduate studies in Computer Science at the University of Toronto 🕺
 
 
 ### 🌱 I’m currently learning ...
-- COMP3314: Intro to Machine Learning
-- COMP3322: Modern Technologies on the World Wide Web
-
-- CSC469: Operating Systems Design and Implementation
+- CSC428: Human-Computer Interaction
+- CSC486: Knowledge Representation and Reasoning
 
 
 <!--
